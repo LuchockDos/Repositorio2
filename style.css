@@ -1,0 +1,61 @@
+/* Estilos Generales*/
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+main{
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+footer{
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/*Estilos Especificos*/
+h1{
+    margin: 0;
+}
+h2{
+    color: blueviolet;
+}
+ul{
+    padding-left: 20px;
+}
+address{
+    font-size: normal;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+  
